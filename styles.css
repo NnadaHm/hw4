@@ -1,19 +1,19 @@
 
 body{
   font-family: Arial, Verdana, sans-serif;  
-  background-color: #f3f4f6;
+  background-color: #fff0f6;
   color: #222;
   margin: 0;
   line-height: 1.5;}
-header{ background-color: #e7ecff;
+header{ background-color: #ffe4ec;
   padding: 1rem;
-  border-bottom: 2px solid #c9d2ff;   }
+ border-bottom: 2px solid #ffb3c6; }
 h1{
    
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  text-shadow: 0.12rem 0.12rem 0.15rem #c7c7c7;
+text-shadow: 0.12rem 0.12rem 0.15rem #ffc0cb;
   margin: 0.5rem 0;
    
   }
@@ -42,34 +42,34 @@ ol{ list-style-type: upper-roman;
 
   }
 dl{
-  border-left: 0.3rem solid #4f46e5;
+  border-left: 0.3rem solid #ff6f91;
  padding-left: 1rem;}
 
 a{
- color: #1d4ed8;
+  color: #d6336c;
   text-decoration: underline;
 }
 
 
 
 nav{
-  background-color: #dbe4ff;
+  background-color: #ffd6e0;
+  border: 1px solid #ffb3c6;
   padding: 0.6rem;
- margin-top: 0.7rem;
-  border: 1px solid #c5d2ff;}
+ margin-top: 0.7rem; }
 nav a{
   text-decoration: none;
-  color: #111827;
+  color: #7a1e3a;
   padding: 0.3rem 0.6rem;}
-nav a:hover{background-color: #c7d2fe;}
+nav a:hover{background-color: #ffb3c6;}
 
 .card{
-  border: 1px solid #d6d6d6;
+ border: 1px solid #ffccd5;
   padding: 1rem;
   margin: 1rem 0;}
 
 .highlight{
-  background-color: #fff7cc;
+  background-color: #ffe0eb;
   padding: 0.2rem 0.3rem;
 }
 
@@ -82,7 +82,7 @@ nav a:hover{background-color: #c7d2fe;}
 
 
 #intro{
-  border: 2px dashed #a5b4fc;
+  border: 2px dashed #ff99b8;
   padding: 1rem;}
 
 
